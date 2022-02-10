@@ -20,7 +20,7 @@
     "fiber": "^1.0.4",
     "graphql-type-json": "^0.2.1",
     "highlight.js": "^9.16.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "register-service-worker": "^1.6.2",
     "save": "^2.4.0",
     "simplemde-theme-base": "^0.2.1",
